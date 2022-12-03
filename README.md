@@ -5,7 +5,7 @@ BTK Akademi üzerinden aldığım kursun ilk 3 saati yapılan çalışmaları ad
 Proje tamamen bittiği zaman ilk güne bakıp gelişimleri görebilmek adına adımları sırası ile yazıyorum.
 
 
-Tamamlanan bölümler:
+Tamamlanan bölümler
 
 03.12.2022 (İlk gün)
 Ders 1 - Giriş
