@@ -9,7 +9,7 @@ Proje tamamen bittiği zaman ilk güne bakıp gelişimleri görebilmek adına ad
 
 Tamamlanan bölümler
 
----
+<hr>
 <b>
 
     03.12.2022 (İlk gün)
@@ -62,7 +62,7 @@ Tamamlanan bölümler
 
 <b>
 
----
+<hr>
 
     04.12.2022 (İkinci gün)
 - Ders 4 - SEO ve Semantik Web
@@ -126,5 +126,6 @@ Tamamlanan bölümler
 
 <b>
 
----
+<hr>
+
     04.12.2022 (Üçüncü gün)
