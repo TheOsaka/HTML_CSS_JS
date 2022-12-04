@@ -7,7 +7,7 @@ Proje tamamen bittiği zaman ilk güne bakıp gelişimleri görebilmek adına ad
 </i>
 
 
-Tamamlanan bölümler:
+Tamamlanan bölümler
 
 ---
 <b>
