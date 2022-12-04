@@ -109,6 +109,12 @@ Tamamlanan bölümler
 </ul>
 
 
+<b>
+
+<hr>
+
+    05.12.2022 (Üçüncü gün)
+
 - Ders 7 - Link İşlemleri
 <ul>
 <h5>
@@ -124,8 +130,38 @@ Tamamlanan bölümler
 </ul>
 
 
+- Ders 8 - Tablo İşlemleri
+<ul>
+<h5>
+
+- 8.1 - Bu Bölümde Neler Öğreneceğiz?
+- 8.2 - Tablo Oluşturma Komutları
+- 8.3 - Tablo Biçimlendirme Komutları
+- 8.4 - Hücre Birleştirme
+- 8.5 - Tablo Konusunu Özeti ve Tekrarı
+</ul>
+
+
+- Ders 9 - Form İşlemleri
+<ul>
+<h5>
+
+- 9.1 - Bu Bölümde Neler Öğreneceğiz?
+- 9.2 - Form Oluşturma
+- 9.3 - Metin Kutusu
+- 9.4 - Form Onaylama ve İptal Butonları
+- 9.5 - Email, URL ve Number Kutusu
+- 9.6 - Tablo ile Form Hizalama
+- 9.7 - Form Elemanlarının Ortak Özellikleri
+- 9.8 - Metin Alanı
+- 9.9 - Seçenek ve Onay Kutuları
+- 9.10 - Seçenek Listesi
+- 9.11 - Resimli Form Onaylama Butonu
+- 9.12 - Form Konusunun Özeti ve Tekrarı
+</ul>
+
 <b>
 
 <hr>
 
-    05.12.2022 (Üçüncü gün)
+    06.12.2022 (Dördüncü gün)
