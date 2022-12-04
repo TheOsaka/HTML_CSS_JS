@@ -128,4 +128,4 @@ Tamamlanan bölümler
 
 <hr>
 
-    04.12.2022 (Üçüncü gün)
+    05.12.2022 (Üçüncü gün)
