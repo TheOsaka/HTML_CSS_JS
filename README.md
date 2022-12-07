@@ -142,6 +142,15 @@ Tamamlanan bölümler
 </ul>
 
 
+<b>
+
+<hr>
+
+    07.12.2022 (Dördüncü gün)
+
+</ul>
+
+
 - Ders 9 - Form İşlemleri
 <ul>
 <h5>
@@ -159,10 +168,3 @@ Tamamlanan bölümler
 - 9.11 - Resimli Form Onaylama Butonu
 - 9.12 - Form Konusunun Özeti ve Tekrarı
 </ul>
-
-<b>
-
-<hr>
-
-    06.12.2022 (Dördüncü gün)
-
