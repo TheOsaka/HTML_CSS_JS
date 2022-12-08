@@ -169,3 +169,24 @@ Tamamlanan bölümler
 - 9.12 - Form Konusunun Özeti ve Tekrarı
 
 </ul>
+
+<hr>
+
+    08.12.2022 (Beşinci gün)
+
+</ul>
+
+
+- Ders 10 - Video ve Ses İşlemleri
+<ul>
+<h5>
+
+- 10.1 - Bu Bölümde Neler Öğreneceğiz?
+- 10.2 - Form Oluşturma
+- 10.3 - Metin Kutusu
+- 10.4 - Form Onaylama ve İptal Butonları
+- 10.5 - Email, URL ve Number Kutusu
+
+
+</ul>
+
