@@ -190,3 +190,24 @@ Tamamlanan bölümler
 
 </ul>
 
+<hr>
+
+    10.12.2022 (Altıncı gün)
+
+</ul>
+
+
+- Ders 11 - Site Yayınlama
+<ul>
+<h5>
+
+- 11.1 - Bu Bölümde Neler Öğreneceğiz?
+- 11.2 - Ücretsiz Alan Adı ve Hosting alımı
+- 11.3 - FTP Yazılımları
+- 11.4 - Kişisel Site Uygulaması
+- 11.5 - Anasayfanın Oluşturulması
+- 11.6 - Özgeçmiş Sayfası
+- 11.7 - İletişim Sayfası
+- 11.8 - Sitenin Yayınlanması
+
+</ul>
