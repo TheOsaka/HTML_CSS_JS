@@ -211,3 +211,40 @@ Tamamlanan bölümler
 - 11.8 - Sitenin Yayınlanması
 
 </ul>
+
+<hr>
+
+    12.12.2022 (Yedinci gün)
+
+</ul>
+<h5>
+
+
+- Ders 12
+<ul>
+
+- 12.1 - Bu Bölümde Neler Öğreneceğiz?
+- 12.2 - CSS Nedir? Ne işe Yarar?
+- 12.3 - CSS Yazım Kuralları
+- 12.4 - Satır İçi(Inline) CSS Kodları
+- 12.5 - Sayfa İçi(Internal) CSS Kodları
+- 12.6 - Harici (External) CSS Kodları
+- 12.7 - Hangi CSS Kodu Önceliklidir?
+- 12.8 - Öncelikli CSS Kodu Uygulaması
+
+</ul>
+<h5>
+
+- Ders 13
+<ul>
+
+- 13.1 - Bu Bölümde Neler Öğreneceğiz?
+- 13.2 - Seçici Nedir? Ne işe Yarar?
+- 13.3 - Temel Seçici Komutları
+- 13.4 - Grup Seçici Kodları
+- 13.5 - Etiket İçinde Etiket Seçici Komutları
+- 13.6 - Etiket İçinde Id(Tekil) Seçici
+- 13.7 - Etiket İçinde Class(Sınıf) Seçici
+- 13.8 - Karmaşık Seçici Örnekleri
+- 13.9 - Eğitim Kaynakları
+</ul>
