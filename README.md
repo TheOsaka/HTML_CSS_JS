@@ -217,11 +217,11 @@ Tamamlanan bölümler
     12.12.2022 (Yedinci gün)
 
 </ul>
-<h5>
 
 
-- Ders 12
+- Ders 12 - Temel CSS Bilgileri
 <ul>
+<h5>
 
 - 12.1 - Bu Bölümde Neler Öğreneceğiz?
 - 12.2 - CSS Nedir? Ne işe Yarar?
@@ -233,10 +233,10 @@ Tamamlanan bölümler
 - 12.8 - Öncelikli CSS Kodu Uygulaması
 
 </ul>
-<h5>
 
-- Ders 13
+- Ders 13 - Seçici Kullanımı
 <ul>
+<h5>
 
 - 13.1 - Bu Bölümde Neler Öğreneceğiz?
 - 13.2 - Seçici Nedir? Ne işe Yarar?
@@ -247,4 +247,45 @@ Tamamlanan bölümler
 - 13.7 - Etiket İçinde Class(Sınıf) Seçici
 - 13.8 - Karmaşık Seçici Örnekleri
 - 13.9 - Eğitim Kaynakları
+</ul>
+
+<hr>
+
+    13.12.2022 (Sekizinci gün)
+
+</ul>
+
+- Ders 14 - CSS Kutu Modeli
+<ul>
+<h5>
+
+- 14.1 - Bu Bölümde Neler Öğreneceğiz?
+- 14.2 - CSS Kutu Modeli Nedir
+- 14.3 - Kutu Boyutu ve Aralık Ayarları
+- 14.4 - Kutu Kenarlık Ayarları
+- 14.5 - Kutu Rengi ve Ardalan Ayarları
+- 14.6 - Ardalan Resminin Konum Ayarları
+- 14.7 - Kutu Davranışının Değiştirilmesi
+- 14.8 - CSS ile Sayfa Düzeni (Layout) Oluşturma
+- 14.9 - Kutu Pozisyonunun Ayarlanması
+- 14.10 - Kutuların Öne ve Arkaya Taşınması
+- 14.11 - Kutu Köşelerinin Yuvarlatılması
+- 14.12 - Overflow Komutu ile Taşan İçeriğin Düzenlenmesi
+- 14.13 - Gölge Oluşturma
+- 14.14 - Float Komutu ile Kutu Hizalama
+- 14.15 - CSS ile Semantik Sayfa Düzeni Uygulaması
+
+</ul>
+
+
+- Ders 15 - CSS ile Biçimlendirme
+<ul>
+
+- 15.1 - Bu Bölümde Neler Öğreneceğiz?
+- 15.2 - Paragrafların Biçimlendirilmesi
+- 15.3 - Metinlerin Biçimlendirilmesi
+- 15.4 - Metin Ardalanlarının Ayarlanması
+- 15.5 - Liste Biçimlendirilmesi
+- 15.6 - Tablo Biçimlendirme
+
 </ul>
