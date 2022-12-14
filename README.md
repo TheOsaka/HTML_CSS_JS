@@ -279,7 +279,9 @@ Tamamlanan bölümler
 
 
 - Ders 15 - CSS ile Biçimlendirme
+
 <ul>
+<h5>
 
 - 15.1 - Bu Bölümde Neler Öğreneceğiz?
 - 15.2 - Paragrafların Biçimlendirilmesi
@@ -289,3 +291,58 @@ Tamamlanan bölümler
 - 15.6 - Tablo Biçimlendirme
 
 </ul>
+
+
+<hr>
+
+    14.12.2022 (Dokuzuncu gün - Son Gün)
+
+</ul>
+
+- Ders 16 - CSS Kutu Modeli
+<ul>
+<h5>
+
+- 16.1 - Bu Bölümde Neler Öğreneceğiz?
+- 16.2 - Formların CSS ile Biçimlendirilmesi
+- 16.3 - Linklerin CSS ile Biçimlendirilmesi
+- 16.4 - CSS Kodları ile Menü Oluşturma
+</ul>
+
+
+- Ders 17 - Kişisel Web Sitesi Uygulaması
+<ul>
+<h5>
+
+- 17.1 - Bu Bölümde Neler Öğreneceğiz?
+- 17.2 - Site Tasarımına Başlamadan Önce
+- 17.3 - Site Tasarım Aşamaları
+- 17.4 - Şablon HTML Sayfasının Hazırlanması
+- 17.5 - CSS Sayfasının Oluşturulması
+- 17.6 - Sayfa Kapsayıcının (Container) Hazırlanması
+- 17.7 - Banner Bölümünün CSS Kodları
+- 17.8 - Logo ve Sosyal Medya İkonları Yerleşimi
+- 17.9 - Ana Menünün Oluşturulması
+- 17.10 - İçeri Bölümünün ve Yan Menünün Oluşturulması
+- 17.11 - Alt Menünün Oluşturulması
+- 17.12 - Sayfaların Oluşturulması ve Test Edilmesi
+- 17.13 - Hazır Şablon (Template) Kullanımı
+</ul>
+
+
+- Ders 18 - Javascript Farkındalığı
+<ul>
+<h5>
+
+- 18.1 - Bu Bölümde Neler Öğreneceğiz?
+- 18.2 - Javascript Nedir?
+- 18.3 - Örnek Javascript Kodları
+- 18.4 - Örnek Javascript Kodları2
+- 18.5 - Yaygın Javascript Kütüphaneleri
+- 18.6 - Bu Eğitimden Sonra Ne Öğrenmeliyim?
+- 18.7 - Hoşçakalın...
+</ul>
+
+<hr>
+
+    ............SON............
