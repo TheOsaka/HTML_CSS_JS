@@ -340,7 +340,7 @@ Tamamlanan bölümler
 - 18.4 - Örnek Javascript Kodları2
 - 18.5 - Yaygın Javascript Kütüphaneleri
 - 18.6 - Bu Eğitimden Sonra Ne Öğrenmeliyim?
-- 18.7 - Hoşçakalın...
+- 18.7 - Hoşçakalın..
 </ul>
 
 <hr>
